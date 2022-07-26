@@ -1,0 +1,21 @@
+{
+  "name": "laughing-umbrella",
+  "version": "1.0.0",
+  "description": "Nodejs: Understanding the Basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulghofurme/laughing-umbrella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulghofurme/laughing-umbrella/issues"
+  },
+  "homepage": "https://github.com/abdulghofurme/laughing-umbrella#readme"
+}
